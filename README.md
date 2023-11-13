@@ -1,1 +1,1 @@
-This Repo have Projects using HTML, CSS and JAVASCRIPT.
+This Repo have Projects and created using HTML, CSS and JAVASCRIPT.
